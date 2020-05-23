@@ -32,13 +32,43 @@ $ npm start
 ```
 # Demo:(snapshots)
 
-* user signup
+### homePage
+
+![alt-text](/client/public/snaps/home.jpg)
+
+### user signup
+
 ![alt-text](/client/public/snaps/signup.jpg)
 
-* user signin
+### user signin
+
 ![alt-text](/client/public/snaps/signin.jpg)
 
-* cart 
+### cart 
+
 ![alt-text](/client/public/snaps/cart.jpg)
 
+### admin area
+
+![alt-text](/client/public/snaps/admin.jpg)
+
+### addCategory
+
+![alt-text](/client/public/snaps/addcategory.jpg)
+
+### contactUs
+
+![alt-text](/client/public/snaps/contactus.jpg)
+
+### updateproduct
+
+![alt-text](/client/public/snaps/updateprod.jpg)
+
+### checkout 
+
+![alt-text](/client/public/snaps/checkout1.jpg)
+
+### stripe
+
+![alt-text](/client/public/snaps/checkout2.jpg)
 
