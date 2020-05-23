@@ -1,14 +1,15 @@
-# Expressoo(An E-com web-Application)
+# Expressoo
+## (An E-commerce Mern Application)
 
 # Prerequesites
 * Node.js, MongoDB and npm or yarn package manager are required
 
-### featers 
+# featers 
 * Node provides the backend environment for this application
 * Express middleware is used to handle requests, routes
 * Mongoose schemas to model the application data
 * React for displaying UI components
-* Express-validators 
+* Express-validators
 
 # Install
 * Some basic Git commands are:
@@ -22,12 +23,14 @@ $ npx create-react-app Client
 $ npm start
 
  ```
+
 # setup
 ```
 > Create .env file that include:
 * PORT & MONGO_URI
 * SECRET_OR_KEY => secret key for JWT
 ```
+# Demo:(snapshots)
 
-# some key Features:
-
+* user signup
+![alt-text](/client/public/snaps/signup.jpg)
