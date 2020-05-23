@@ -34,3 +34,11 @@ $ npm start
 
 * user signup
 ![alt-text](/client/public/snaps/signup.jpg)
+
+* user signin
+![alt-text](/client/public/snaps/signin.jpg)
+
+* cart 
+![alt-text](/client/public/snaps/cart.jpg)
+
+
