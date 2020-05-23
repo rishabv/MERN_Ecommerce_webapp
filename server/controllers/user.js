@@ -90,3 +90,4 @@ exports.getAllUser = (req, res) => {
     res.json(users);
   });
 };
+
